@@ -1,0 +1,29 @@
+title: "Wendy Tian"
+description: "A growing data scientist takes interest in tax automation, with a diverse background in data science, US income tax and economics"
+url: "https://wendytian.github.io"
+author:
+  name: "Wendy Tian"
+  email: "wendytian.usc@gmailcom"
+  github: "Wendy0756"
+  linkedin: "https://www.linkedin.com/in/wendytian2024ds/"
+
+# Use a GitHub Pages–compatible theme
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Site-wide options
+markdown: kramdown
+highlighter: rouge
+
+# Nav items (simple)
+nav:
+  - name: "Projects"
+    url: "/#projects"
+  - name: "About"
+    url: "/#about"
+  - name: "Contact"
+    url: "/#contact"

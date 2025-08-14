@@ -1,0 +1,23 @@
+- title: "ADHD Brain Connectivity Classifier"
+  timeframe: "2025"
+  tech: ["Python", "PyTorch Geometric", "fMRI"]
+  description: "GNN on connectome data for ADHD classification."
+  repo: "https://github.com/<your-username>/<repo-adhd-gnn>"
+  demo: ""           # optional
+  image: "images/adhd-gnn.png"  # optional
+
+- title: "AI Tax Research Assistant"
+  timeframe: "2025"
+  tech: ["Python", "LlamaIndex", "FastAPI", "RAG"]
+  description: "Agentic workflow that automates tax research with citations."
+  repo: "https://github.com/<your-username>/<repo-tax-agent>"
+  demo: ""
+  image: "images/tax-agent.png"
+
+- title: "K8s Multi-Env Deploy"
+  timeframe: "2025"
+  tech: ["Docker", "Kubernetes", "Kustomize", "AWS EKS", "ECR"]
+  description: "Prod & local overlays, image tagging, GitOps-ready layout."
+  repo: "https://github.com/<your-username>/<repo-k8s-kustomize>"
+  demo: ""
+  image: ""
