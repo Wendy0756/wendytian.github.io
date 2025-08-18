@@ -37,55 +37,15 @@ _Data science, ML, and Tax Automation projects_
   {% endfor %}
 </div>
 
-<a id="about"></a>
-## About
-I’m Wendy (Xueying). I design data/ML pipelines end-to-end—ingestion, training, eval, and serving—with a focus on clarity and reproducibility. Interests: agentic AI for tax workflows, RAG quality, K8s deployments, and graph ML for fMRI.
+<a id="education"></a>
+## Education
+- Jan 2024 - Present: University of California, Berkeley | Master of Information and Data Science
+- Jun 2016 - May 2017: University of Southern California | Master of Business Taxation
+- Aug 2013 - Dec 2015: University of Illinois at Urbana-Champaign | Bachelor of Arts in Economics
+- Aug 2011 - May 2013: Sun Yat-sen University | International Business School
 
 <a id="contact"></a>
 ## Contact
 - Email: wendytian.usc@gmail.com
 - GitHub: [@ Wendy0756](https://github.com/Wendy0756)
 - LinkedIn: [ wendytian2024ds ](https://www.linkedin.com/in/wendytian2024ds/)
-
-<!-- lightweight page styles -->
-<style>
-/* page width */
-.main-content { max-width: 980px; }
-/* project grid */
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 16px;
-  margin: 10px 0 24px 0;
-}
-.card {
-  border: 1px solid #e6e8eb;
-  border-radius: 14px;
-  background: #fff;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-}
-.thumb {
-  width: 100%;
-  height: 160px;
-  object-fit: cover;
-  background: #f6f8fa;
-}
-.card-body { padding: 14px; display: flex; flex-direction: column; gap: 10px; }
-.card-title { display: flex; align-items: center; gap: 8px; }
-.card-title h3 { margin: 0; font-size: 1.05rem; }
-.pill { font-size: .75rem; background: #eaf5ff; color: #0969da; padding: 2px 8px; border-radius: 999px; }
-.desc { margin: 0; color: #4b5563; }
-.tags { display: flex; flex-wrap: wrap; gap: 6px; }
-.tag { font-size: .72rem; background: #f2f4f7; padding: 2px 8px; border-radius: 999px; }
-.links { display: flex; gap: 12px; }
-.links a { text-decoration: none; border-bottom: 1px dotted; }
-@media (prefers-color-scheme: dark) {
-  .card { border-color: #2d333b; background: #0d1117; }
-  .thumb { background: #161b22; }
-  .desc { color: #9aa4ad; }
-  .tag { background: #1f242d; }
-  .pill { background: #13233a; color: #58a6ff; }
-}
-</style>
