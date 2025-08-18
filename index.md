@@ -39,10 +39,14 @@ _Data science, ML, and Tax Automation projects_
 
 <a id="education"></a>
 ## Education
-- Jan 2024 - Present: University of California, Berkeley | Master of Information and Data Science
-- Jun 2016 - May 2017: University of Southern California | Master of Business Taxation
-- Aug 2013 - Dec 2015: University of Illinois at Urbana-Champaign | Bachelor of Arts in Economics
-- Aug 2011 - May 2013: Sun Yat-sen University | International Business School
+
+| Logo | School & Degree |
+|------|-----------------|
+| <img src="assets/img/ucb.png" width="40"/> | **University of California, Berkeley** <br>Jan 2024 – Present<br>Master of Information and Data Science |
+| <img src="assets/img/usc.png" width="40"/> | **University of Southern California** <br>Jun 2016 – May 2017<br>Master of Business Taxation |
+| <img src="assets/img/uiuc.png" width="40"/> | **University of Illinois at Urbana-Champaign** <br>Aug 2013 – Dec 2015<br>Bachelor of Arts in Economics |
+| <img src="assets/img/sysu.png" width="40"/> | **Sun Yat-sen University** <br>Aug 2011 – May 2013<br>International Business School |
+
 
 <a id="contact"></a>
 ## Contact
