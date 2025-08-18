@@ -6,7 +6,7 @@ title: Home
 # {{ site.title }}
 _Data science, ML, and MLOps projects_
 
-<p style="margin-top:0.75rem;">I am a growing data scientist graduating from UC Berkeley in December 2025. My interest lies in implementing agentic model framework in tax automation and retrieval based tax research engine.</p>
+<p style="margin-top:0.75rem;">I am a growing data scientist graduating from UC Berkeley in December 2025. My interest lies in implementing the agentic model framework in tax automation and retrieval based tax research engine.</p>
 
 <a id="projects"></a>
 ## Projects
