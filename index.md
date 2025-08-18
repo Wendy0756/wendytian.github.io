@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-# {{ site.title }}
-_Data science, ML, and MLOps projects_
+# Wendy Tian
+_Data science, ML, and Tax Automation projects_
 
-<p style="margin-top:0.75rem;">I am a growing data scientist graduating from UC Berkeley in December 2025. My interest lies in implementing the agentic model framework in tax automation and retrieval based tax research engine.</p>
+<p style="margin-top:0.75rem;">I am a growing data scientist graduating from UC Berkeley in December 2025. My interest lies in implementing the agentic model framework in tax automation and the retrieval-based research engine in specialized topics.</p>
 
 <a id="projects"></a>
 ## Projects
@@ -43,9 +43,9 @@ I’m Wendy (Xueying). I design data/ML pipelines end-to-end—ingestion, traini
 
 <a id="contact"></a>
 ## Contact
-- Email: {{ wendytian.usc@gmail.com }}
-- GitHub: [@{{ Wendy0756 }}](https://github.com/{{ site.author.github }})
-- LinkedIn: [{{ wendytian2024ds }}](https://www.linkedin.com/in/{{ site.author.linkedin }}/)
+- Email: wendytian.usc@gmail.com
+- GitHub: [@ Wendy0756](https://github.com/Wendy0756)
+- LinkedIn: [ wendytian2024ds ](https://www.linkedin.com/in/wendytian2024ds/)
 
 <!-- lightweight page styles -->
 <style>
