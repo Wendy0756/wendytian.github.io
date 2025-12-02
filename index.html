@@ -19,6 +19,21 @@
             padding: 30px 20px;
             text-align: center;
         }
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .portfolio-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #fff;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+        }
         nav {
             background: #444;
             padding: 10px;
@@ -57,8 +72,13 @@
 </head>
 <body>
     <header>
-        <h1>Wendy Tian</h1>
-        <p>Data Scientist | Machine Learning | Generative AI| Income Tax Analyst</p>
+        <div class="header-content">
+            <img src="assets/img/portfolio.jpg" alt="Wendy Tian" class="portfolio-img">
+            <div>
+                <h1>Wendy Tian</h1>
+                <p>Data Scientist | Machine Learning | Generative AI| Income Tax Analyst</p>
+            </div>
+        </div>
     </header>
 
     <nav>
